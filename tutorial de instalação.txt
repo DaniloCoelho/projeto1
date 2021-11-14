@@ -1,0 +1,15 @@
+bootstrap
+
+jquery 3x minifield
+
+font awesome (falta)
+
+progress bar js github
+
+parallax.js
+
+<script src="https://cdn.jsdelivr.net/parallax.js/1.4.2/parallax.min.js"></script>
+
+google fonts -> roboto
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,300;0,700;1,400&display=swap" rel="stylesheet">
+
